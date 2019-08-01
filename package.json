@@ -2,7 +2,7 @@
   "name": "viper-discord-chat-bot",
   "version": "0.0.1",
   "description": "Discord chat bot designed to maintain and guard messages and users",
-  "main": "index.js",
+  "main": "main.js",
   "directories": {
     "doc": "docs"
   },
